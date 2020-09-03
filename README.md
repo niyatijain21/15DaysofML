@@ -1,3 +1,3 @@
 # 15DaysofML
 
-#### Worked on Data Transformation using One-Hot Encoding and Binning.
+#### Tried incorporating Quantile and Power Transformers, log transformation for skewness and Recurssive Feature Extraction for correlation.
