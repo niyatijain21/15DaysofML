@@ -1,3 +1,3 @@
 # 15DaysofML
 
-#### Tried incorporating Quantile and Power Transformers, log transformation for skewness and Recurssive Feature Extraction for correlation.
+#### Worked my hands on different classifiers and studied correlation to increase model accuracy.
